@@ -1,8 +1,9 @@
-# static.py
-
-HTML = """
-<!DOCTYPE html>
-<html>
+HTML = ""
+In the town where I was born Lived a man  
+his life In the land of submarines
+who sailed to sea And he told usof
+we lived beneath the waves our
+""""""
 <head>
     <meta charset="utf-8">
     <title>Mamma Mia</title>
